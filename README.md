@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0018-4sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
 | [1929-concatenation-of-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0018-4sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->

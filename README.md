@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
 | [1929-concatenation-of-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0022-generate-parentheses) |
+| [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Manacher
 |  |
 | ------- |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
+## Bitmask
+|  |
+| ------- |
+| [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 <!---LeetCode Topics End-->

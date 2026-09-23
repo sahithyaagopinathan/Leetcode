@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Manacher
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

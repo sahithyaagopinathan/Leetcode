@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |

@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0061-rotate-list) |
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |

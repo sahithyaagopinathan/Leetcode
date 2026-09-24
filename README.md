@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0062-unique-paths) |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Manacher
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

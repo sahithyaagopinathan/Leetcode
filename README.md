@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Manacher
 |  |
@@ -235,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->

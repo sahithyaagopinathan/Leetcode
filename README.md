@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0067-add-binary) |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Bitmask
 |  |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

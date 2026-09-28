@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0622-design-circular-queue](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0622-design-circular-queue) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1122-relative-sort-array](https://github.com/sahithyaagopinathan/Leetcode/tree/master/1122-relative-sort-array) |
 ## Counting Sort

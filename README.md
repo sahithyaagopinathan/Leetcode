@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Manacher
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -288,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->

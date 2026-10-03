@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/sahithyaagopinathan/Leetcode/tree/master/0091-decode-ways) |
 | [2741-special-permutations](https://github.com/sahithyaagopinathan/Leetcode/tree/master/2741-special-permutations) |
 ## Manacher
 |  |
